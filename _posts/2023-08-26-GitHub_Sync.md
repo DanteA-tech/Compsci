@@ -15,7 +15,7 @@ title: GitHub Overview
 <br>
 
 ## Create GitHub Page Repository
-You will want to create a personal Github Pages blog for this class. This is a place where you can code, complete the hacks, and record what you have learned. 
+You will want to create a personal Github Pages blog for this class. This is a place where you can code, complete the hacks, and record what you have leared. 
 
 ### Git Config
 Run the following commands to configure user git connection to GitHub.  This is required,  before pushing code to GitHub.
